@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Arial, sans-serif" role="img" aria-label="Cross-section through a tropical storm with the eye labelled X, eyewall Y and rain bands Z">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<rect width="720" height="380" fill="white"/>
+<rect x="0" y="320" width="720" height="60" fill="#5b8fd6"/>
+<text x="20" y="360" font-size="14" fill="white">Warm ocean</text>
+<!-- rain bands -->
+<path d="M40,320 Q60,250 110,255 Q150,220 170,260 Q185,300 180,320 Z" fill="#b9c0cc"/>
+<path d="M680,320 Q660,250 610,255 Q570,220 550,260 Q535,300 540,320 Z" fill="#b9c0cc"/>
+<!-- eyewall -->
+<path d="M230,320 L230,90 Q260,40 330,60 L330,320 Z" fill="#6f7787"/>
+<path d="M490,320 L490,90 Q460,40 390,60 L390,320 Z" fill="#6f7787"/>
+<!-- outflow -->
+<line x1="300" y1="45" x2="140" y2="70" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/>
+<line x1="420" y1="45" x2="580" y2="70" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/>
+<!-- rising air in eyewall -->
+<line x1="280" y1="300" x2="280" y2="110" stroke="white" stroke-width="3" marker-end="url(#a)"/>
+<line x1="440" y1="300" x2="440" y2="110" stroke="white" stroke-width="3" marker-end="url(#a)"/>
+<!-- sinking air in eye -->
+<line x1="360" y1="90" x2="360" y2="280" stroke="#1d2433" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#a)"/>
+<!-- inflow -->
+<line x1="60" y1="312" x2="210" y2="312" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/>
+<line x1="660" y1="312" x2="510" y2="312" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/>
+<!-- rain -->
+<g stroke="#2f6fdf" stroke-width="2"><line x1="245" y1="240" x2="240" y2="260"/><line x1="265" y1="250" x2="260" y2="270"/><line x1="305" y1="245" x2="300" y2="265"/><line x1="415" y1="245" x2="410" y2="265"/><line x1="455" y1="250" x2="450" y2="270"/><line x1="475" y1="240" x2="470" y2="260"/><line x1="100" y1="280" x2="96" y2="296"/><line x1="140" y1="285" x2="136" y2="301"/><line x1="580" y1="280" x2="576" y2="296"/><line x1="620" y1="285" x2="616" y2="301"/></g>
+<g font-size="18" font-weight="bold" fill="#1d2433">
+<circle cx="360" cy="200" r="16" fill="white" stroke="#1d2433" stroke-width="2"/><text x="360" y="206" text-anchor="middle">X</text>
+<circle cx="490" cy="180" r="16" fill="white" stroke="#1d2433" stroke-width="2"/><text x="490" y="186" text-anchor="middle">Y</text>
+<circle cx="110" cy="235" r="16" fill="white" stroke="#1d2433" stroke-width="2"/><text x="110" y="241" text-anchor="middle">Z</text>
+</g>
+<text x="700" y="20" font-size="12" text-anchor="end" fill="#555">Not to scale. Solid arrows: air movement. Dashed: sinking air.</text>
+</svg>

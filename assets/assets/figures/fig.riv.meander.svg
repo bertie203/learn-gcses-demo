@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Arial, sans-serif" role="img" aria-label="Plan view of a meander, X on the outside of the bend, Y on the inside">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<rect width="720" height="420" fill="#e6f0dc"/>
+<!-- slip-off slope deposit on inside -->
+<path d="M250,400 C250,260 290,190 360,190 C430,190 470,260 470,400 Z" fill="#e8d6a8"/>
+<!-- river channel: outer bank and inner bank -->
+<path d="M150,420 C150,170 240,70 360,70 C480,70 570,170 570,420 L470,420 C470,250 430,170 360,170 C290,170 250,250 250,420 Z" fill="#5b8fd6"/>
+<!-- river cliff hatching on outside -->
+<path d="M150,420 C150,170 240,70 360,70 C480,70 570,170 570,420" fill="none" stroke="#6b4a2b" stroke-width="6"/>
+<!-- fastest flow -->
+<path d="M190,410 C185,190 260,100 360,95 C460,100 535,190 530,410" fill="none" stroke="#e0562b" stroke-width="3" stroke-dasharray="8 6" marker-end="url(#a)"/>
+<!-- flow arrows -->
+<line x1="200" y1="330" x2="200" y2="270" stroke="white" stroke-width="3" marker-end="url(#a)"/>
+<line x1="520" y1="270" x2="520" y2="330" stroke="white" stroke-width="3" marker-end="url(#a)"/>
+<g font-size="18" font-weight="bold" fill="#1d2433">
+<circle cx="360" cy="40" r="16" fill="white" stroke="#1d2433" stroke-width="2"/><text x="360" y="46" text-anchor="middle">X</text>
+<circle cx="360" cy="300" r="16" fill="white" stroke="#1d2433" stroke-width="2"/><text x="360" y="306" text-anchor="middle">Y</text>
+</g>
+<g font-size="13" fill="#1d2433"><line x1="575" y1="30" x2="610" y2="30" stroke="#e0562b" stroke-width="3" stroke-dasharray="8 6"/><text x="616" y="35">fastest flow</text>
+<rect x="575" y="45" width="35" height="14" fill="#e8d6a8"/><text x="616" y="57">sand and gravel</text>
+<line x1="575" y1="74" x2="610" y2="74" stroke="#6b4a2b" stroke-width="6"/><text x="616" y="79">steep bank</text></g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Atkinson Hyperlegible, Arial, sans-serif" role="img" aria-label="A bar chart and table of average cliff retreat in metres per year at six sites. Site 1, clay: 1.8. Site 2, sandstone: 0.6. Site 3, chalk: 0.3. Site 4, boulder clay: 2.4. Site 5, granite: 0.05. Site 6, limestone: 0.2. The two clay sites retreat fastest; granite retreats slowest.">
+<rect width="720" height="420" fill="white"/>
+<line x1="70" x2="650" y1="350.0" y2="350.0" stroke="#d9dce3"/>
+<text x="62.0" y="354.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">0</text>
+<line x1="70" x2="650" y1="284.0" y2="284.0" stroke="#d9dce3"/>
+<text x="62.0" y="288.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">0.5</text>
+<line x1="70" x2="650" y1="218.0" y2="218.0" stroke="#d9dce3"/>
+<text x="62.0" y="222.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">1</text>
+<line x1="70" x2="650" y1="152.0" y2="152.0" stroke="#d9dce3"/>
+<text x="62.0" y="156.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">1.5</text>
+<line x1="70" x2="650" y1="86.0" y2="86.0" stroke="#d9dce3"/>
+<text x="62.0" y="90.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">2</text>
+<line x1="70" x2="650" y1="20.0" y2="20.0" stroke="#d9dce3"/>
+<text x="62.0" y="24.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">2.5</text>
+<text x="18.0" y="185.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1d2433" transform="rotate(-90 18 185.0)">Cliff retreat (m per year)</text>
+<rect x="89.3" y="112.4" width="58.0" height="237.6" fill="#2f6fdf"/>
+<rect x="186.0" y="270.8" width="58.0" height="79.2" fill="#2f6fdf"/>
+<rect x="282.7" y="310.4" width="58.0" height="39.6" fill="#2f6fdf"/>
+<rect x="379.3" y="33.2" width="58.0" height="316.8" fill="#2f6fdf"/>
+<rect x="476.0" y="343.4" width="58.0" height="6.6" fill="#2f6fdf"/>
+<rect x="572.7" y="323.6" width="58.0" height="26.4" fill="#2f6fdf"/>
+<text x="118.3" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">1</text>
+<text x="118.3" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Clay</text>
+<text x="215.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">2</text>
+<text x="215.0" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Sandstone</text>
+<text x="311.7" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">3</text>
+<text x="311.7" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Chalk</text>
+<text x="408.3" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">4</text>
+<text x="408.3" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Boulder clay</text>
+<text x="505.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">5</text>
+<text x="505.0" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Granite</text>
+<text x="601.7" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">6</text>
+<text x="601.7" y="384.0" font-size="11" text-anchor="middle" font-weight="normal" fill="#555">Limestone</text>
+<line x1="70" x2="650" y1="350" y2="350" stroke="#1d2433"/>
+<text x="360.0" y="408.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1d2433">Site</text>
+</svg>

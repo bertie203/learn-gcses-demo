@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Atkinson Hyperlegible, Arial, sans-serif" role="img" aria-label="A table and bar chart of five fictional earthquakes, A to E. Each has a magnitude between 6.9 and 7.2. Deaths range from 12 in earthquake D (GDP per capita 52,000 US dollars) to 5,400 in earthquake E (GDP per capita 700 US dollars). Earthquakes in countries with lower GDP per capita have many more deaths.">
+<rect width="720" height="420" fill="white"/>
+<line x1="70" x2="650" y1="350.0" y2="350.0" stroke="#d9dce3"/>
+<text x="62.0" y="354.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">0</text>
+<line x1="70" x2="650" y1="295.0" y2="295.0" stroke="#d9dce3"/>
+<text x="62.0" y="299.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">1,000</text>
+<line x1="70" x2="650" y1="240.0" y2="240.0" stroke="#d9dce3"/>
+<text x="62.0" y="244.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">2,000</text>
+<line x1="70" x2="650" y1="185.0" y2="185.0" stroke="#d9dce3"/>
+<text x="62.0" y="189.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">3,000</text>
+<line x1="70" x2="650" y1="130.0" y2="130.0" stroke="#d9dce3"/>
+<text x="62.0" y="134.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">4,000</text>
+<line x1="70" x2="650" y1="75.0" y2="75.0" stroke="#d9dce3"/>
+<text x="62.0" y="79.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">5,000</text>
+<line x1="70" x2="650" y1="20.0" y2="20.0" stroke="#d9dce3"/>
+<text x="62.0" y="24.0" font-size="12" text-anchor="end" font-weight="normal" fill="#1d2433">6,000</text>
+<text x="18.0" y="185.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1d2433" transform="rotate(-90 18 185.0)">Deaths</text>
+<rect x="93.2" y="346.4" width="69.6" height="3.6" fill="#2f6fdf"/>
+<rect x="209.2" y="329.6" width="69.6" height="20.4" fill="#2f6fdf"/>
+<rect x="325.2" y="190.5" width="69.6" height="159.5" fill="#2f6fdf"/>
+<rect x="441.2" y="349.3" width="69.6" height="0.7" fill="#2f6fdf"/>
+<rect x="557.2" y="53.0" width="69.6" height="297.0" fill="#2f6fdf"/>
+<text x="128.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">A</text>
+<text x="244.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">B</text>
+<text x="360.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">C</text>
+<text x="476.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">D</text>
+<text x="592.0" y="368.0" font-size="12" text-anchor="middle" font-weight="normal" fill="#1d2433">E</text>
+<line x1="70" x2="650" y1="350" y2="350" stroke="#1d2433"/>
+<text x="360.0" y="408.0" font-size="13" text-anchor="middle" font-weight="normal" fill="#1d2433">Earthquake</text>
+</svg>

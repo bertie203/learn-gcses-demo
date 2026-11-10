@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" font-family="Arial, sans-serif" role="img" aria-label="Plan view sketch of a spit">
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1d2433"/></marker></defs>
+<rect width="720" height="460" fill="#9cc3ec"/>
+<!-- land: coast runs west-east then turns north at x=430 into estuary -->
+<path d="M0,0 L430,0 L430,250 L0,250 Z" fill="#cfe3b4"/>
+<path d="M620,0 L720,0 L720,250 L620,250 Z" fill="#cfe3b4"/>
+<!-- river in estuary -->
+<path d="M500,0 L550,0 L550,252 L500,252 Z" fill="#7fb0e6"/>
+<!-- beach -->
+<rect x="0" y="250" width="430" height="18" fill="#efe0b0"/>
+<!-- salt marsh, sheltered behind the spit -->
+<path d="M432,252 L560,252 L566,284 L432,262 Z" fill="#6aa35a"/>
+<text x="470" y="266" font-size="11" fill="white">salt marsh</text>
+<!-- spit -->
+<path d="M418,262 L566,294 Q598,302 594,270" fill="none" stroke="#efe0b0" stroke-width="14" stroke-linecap="round"/>
+<!-- longshore drift zigzag -->
+<polyline points="40,300 70,272 85,300 115,272 130,300 160,272 175,300 205,272 220,300 250,272 265,300 295,272 310,300 340,272 355,300" fill="none" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/>
+<text x="200" y="325" font-size="13" text-anchor="middle" fill="#1d2433">longshore drift</text>
+<!-- prevailing wind -->
+<line x1="90" y1="430" x2="190" y2="350" stroke="#e0562b" stroke-width="4" marker-end="url(#a)"/>
+<text x="80" y="450" font-size="13" fill="#1d2433">prevailing wind (south-west)</text>
+<g font-size="13" fill="#1d2433"><text x="600" y="330">spit with</text><text x="600" y="346">recurved end</text>
+<text x="200" y="130" text-anchor="middle">land</text><text x="525" y="120" text-anchor="middle" transform="rotate(-90 525 120)">estuary</text><text x="600" y="420">sea</text></g>
+<!-- north arrow -->
+<line x1="680" y1="440" x2="680" y2="390" stroke="#1d2433" stroke-width="2" marker-end="url(#a)"/><text x="680" y="382" font-size="14" text-anchor="middle" font-weight="bold">N</text>
+</svg>
